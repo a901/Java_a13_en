@@ -51,8 +51,6 @@ a: 存檔
 <img width="1777" height="902" alt="image" src="https://github.com/user-attachments/assets/63e15d62-3dcc-4320-9c45-6b84ab7bfdb3" />
 <img width="1801" height="917" alt="image" src="https://github.com/user-attachments/assets/5c3b4957-4fa5-46f9-8d8d-20caff7e2868" />
 
-<img width="1813" height="922" alt="image" src="https://github.com/user-attachments/assets/16f16672-4c46-468b-835a-a5d26fe4a812" />
-
 
 
 
